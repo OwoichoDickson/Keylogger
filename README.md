@@ -4,7 +4,7 @@ Purpose of the project is testing the security of information systems
 
 ## INSTALLATION
 
-**You don't need to do anything for installation just run the script**
+**you don't need to do anything for installation just run the script**
 
 
 ## USAGE
